@@ -2,7 +2,7 @@
 
 Check out the prototype: www.goodfirstissue.com
 
-The goal of the site is to provide beginner/intermediate OS contributors with a bunch of ideas for projects to contribute to, as well as gain a sense of the OS landscape for new contributors in their particular language. Currently we accomplish this by fetching issues marked "good first issue" and/or "help wanted" and reformatting them into a ranked list of repos. Users can also add their own labels to the list of labels fetched. 
+The goal of this site is to help beginner and intermediate open-source contributors discover projects they can contribute to and get a better understanding of the open-source landscape in their preferred programming language. We do this by curating a list of repositories with issues labeled "good first issue" or "help wanted," and then organizing them into a ranked list. Users can also customize the list by adding their own labels to refine the results. 
 
 # Current Status 
 
@@ -12,9 +12,9 @@ The site uses React.js and Jest/Enzyme for testing.
 
 # Contributing 
 
-Contributions are welcome! Opening an issue before you submit code can be a good idea, but not required. 
+We welcome all contributions! While it's a good idea to open an issue before submitting code, it's not mandatory.
 
-If you're looking for places to contribute, check out [issues labeled "good first issue"][gfi], of course! 
+If you're searching for places to contribute, be sure to check out the ["issues labeled" "good first issue"][gfi] 
 
 Check out [Sourcecred's contributing guide][scg] for some thoughts on writing great commits. 
 
